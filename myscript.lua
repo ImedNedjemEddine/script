@@ -1,5 +1,3 @@
-
-
 local TweenService = game:GetService("TweenService")
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "ex0ontop"
